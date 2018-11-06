@@ -8,4 +8,4 @@ Then somewhere below the target element do:
 <script>
   TextTyper.init(document.getElementById('targetElemId'));
   TextTyper.typeText("Hello World.");
- </script>
+</script>
