@@ -49,6 +49,7 @@ var TextTyper = (function() {
   };
 
   return {
+    init: init,
     typeText: typeText
   };
 })();
